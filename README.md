@@ -7,10 +7,7 @@ This repository contains an interactive Oil &amp; Gas Dashboard, built entirely 
 This **Oil & Gas Dashboard** provides key insights into industry trends, financial performance, and operational efficiency. Built entirely in **Excel**, it visualizes **critical metrics** for better decision-making.  
 
 💡 **Important Note:**  
-The **database used in this project is fictitious** and does **not represent real-world industry data**. This dashboard was developed **solely to demonstrate my ability** to work with **data handling, visualization techniques, and Excel tools**.  
-
-🔒 **Professional Use Only**  
-This dashboard is **not open for modifications** or external contributions, as it serves a **professional demonstration** of data analysis and visualization capabilities.  
+The **database used in this project is fictitious** and does **not represent real-world industry data**. This dashboard was developed **solely to demonstrate my ability** to work with **data handling, visualization techniques, and Excel tools**.    
 
 ## 🔹 Key Features  
 - **Top 5 Operators** – Identifying leading oil and gas companies  
@@ -40,4 +37,14 @@ This dashboard was developed as a **learning project**, applying **real industry
 ## 🛠️ Future Improvements  
 - Expanding data sources for deeper insights  
 - Integrating **Power BI** for advanced analytics  
-- Enhancing automation for real-time tracking  
+- Enhancing automation for real-time tracking
+
+  ## Contributions  
+Since this repository is part of my **professional portfolio**, it is **not open to external contributions**. However, I welcome discussions, feedback, and suggestions through issues.  
+
+If you have any thoughts or insights, feel free to open an issue!  
+
+---  
+
+### Questions or Issues?  
+Contact deborarebula@gmail.com or open an issue in this repository.  
