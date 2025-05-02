@@ -31,7 +31,8 @@ This dashboard was developed as a **learning project**, applying **real industry
 3️⃣ **Adjust parameters** to analyze different industry scenarios  
 
 ## 🖼️ Screenshot   
-![Dashboard Screenshot]([Oil Gas Analysis Dashboard](https://github.com/user-attachments/assets/c1a6e131-7aec-4cc9-958a-3b015dfec8b9)
+![Dashboard Screenshot](![Oil Gas Analysis Dashboard](https://github.com/user-attachments/assets/ea906f25-7c3e-486a-a509-4be3064d5106)
+)
 )
 
 ## 🛠️ Future Improvements  
