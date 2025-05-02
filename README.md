@@ -33,11 +33,9 @@ This dashboard was developed as a **learning project**, applying **real industry
 2️⃣ **Explore the charts** for financial and production trends  
 3️⃣ **Adjust parameters** to analyze different industry scenarios  
 
-## 🖼️ Screenshot  
-To provide a visual reference, you can upload an image of the dashboard here:  
+## 🖼️ Screenshot   
 ![Dashboard Screenshot]([Oil Gas Analysis Dashboard](https://github.com/user-attachments/assets/c1a6e131-7aec-4cc9-958a-3b015dfec8b9)
 )
-)  
 
 ## 🛠️ Future Improvements  
 - Expanding data sources for deeper insights  
