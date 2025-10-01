@@ -18,9 +18,9 @@ The **database used in this project is fictitious** and does **not represent rea
 - **Average Occupancy** – Evaluating operational capacity and efficiency  
 
 ## Technology & Tools  
-✔ **Excel** – Used for data visualization and dashboard creation  
-✔ **Data Analysis** – Applied financial modeling and trend analysis  
-✔ **Visualization Techniques** – Charts, tables, and performance metrics  
+- **Excel** – Used for data visualization and dashboard creation  
+- **Data Analysis** – Applied financial modeling and trend analysis  
+- **Visualization Techniques** – Charts, tables, and performance metrics  
 
 ## Learning Experience  
 This dashboard was developed as a **learning project**, applying **real industry techniques** to a **fictitious dataset**. A special thanks to **Hashtag Treinamentos**, whose valuable training helped shape this project!  
